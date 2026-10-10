@@ -33,3 +33,5 @@ docker compose up -d --build
 5. Alerta en `on_failure_callback`.
 
 **Siguiente nivel:** dbt sobre `hourly_ohlc`, dashboard en Metabase/Grafana, tests con pytest, CI.
+
+Autor: Ivan Castillo
